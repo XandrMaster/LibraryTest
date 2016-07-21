@@ -9,6 +9,6 @@ public class LibsClass {
 	}
 
 	private String hideFunc (String name) {
-		return name.concat(" Secret INFO");
+		return name.concat(" Secret INFO ");
 	}
 }
