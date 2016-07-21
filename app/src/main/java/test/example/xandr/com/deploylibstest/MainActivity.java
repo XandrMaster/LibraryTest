@@ -6,7 +6,7 @@ import android.util.Log;
 import android.view.View;
 import android.widget.Button;
 
-import test.example.xandr.com.librarytest.LibsClass;
+import com.github.xandr.test.librarytest.LibsClass;
 
 public class MainActivity extends AppCompatActivity {
 

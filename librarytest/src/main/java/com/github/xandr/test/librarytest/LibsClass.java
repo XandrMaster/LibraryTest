@@ -1,4 +1,4 @@
-package test.example.xandr.com.librarytest;
+package com.github.xandr.test.librarytest;
 
 /**
  * Created by Xandr on 20.07.2016.
